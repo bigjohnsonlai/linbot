@@ -14,6 +14,6 @@ def lineNotifyMessage(token, msg):
 
 if __name__ == '__main__':
   message = '[LINE Notify] Hello World'
-  token = 'OlUhQv56lAZWRR9WGX7zcKP3AvgFpS4CJwvPr7ZLTlt'
+  token = 'OIUhQv56lAZWRR9WGX7zcKP3AvgFpS4CJwvPr7ZLTIt'
 
   lineNotifyMessage(token, message)
